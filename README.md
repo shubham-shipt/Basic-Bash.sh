@@ -38,13 +38,15 @@ Each script has a corresponding output image for easy reference. Check them belo
 ```bash
 ./program_2.sh
 ```
-![Output](images/program_2.png)
+![Output]![Screenshot From 2025-02-15 15-06-51](https://github.com/user-attachments/assets/92a34cfe-6217-411a-8c00-4ccbb1a2eaee)
+
 
 #### 🟢 Program 3: `program_3.sh`
 ```bash
 ./program_3.sh
 ```
-![Output](images/program_3.png)
+![Output]![Screenshot From 2025-02-15 15-07-42](https://github.com/user-attachments/assets/e0ae1626-4822-4970-83dc-4826bdfea6c9)
+
 
 ...
 
@@ -52,7 +54,7 @@ Each script has a corresponding output image for easy reference. Check them belo
 ```bash
 ./program_55.sh
 ```
-![Output](images/program_55.png)
+![Output]
 
 ---
 
