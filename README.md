@@ -31,7 +31,8 @@ Each script has a corresponding output image for easy reference. Check them belo
 ```bash
 ./program_1.sh
 ```
-![Output](images/program_1.png)
+![Output](ima![Screenshot From 2025-02-15 15-04-01](https://github.com/user-attachments/assets/441fc8ca-deb8-4f6c-96e9-0c5488dad73a)
+
 
 #### 🟢 Program 2: `program_2.sh`
 ```bash
